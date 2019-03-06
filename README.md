@@ -15,3 +15,10 @@ GET: http://localhost:8080/demo/weather/{zipcode}
 ```
 http://localhost:8080/swagger-ui.html#/
 ```
+
+### SAMPLE REQUEST AND RESPONSE:
+```
+URL- http://localhost:8080/demo/weather/65056
+RESONSE: Tomorrow temperature is low at 11 PM and temperature is 11 F
+
+```
